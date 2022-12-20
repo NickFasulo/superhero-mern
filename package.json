@@ -1,0 +1,28 @@
+{
+  "name": "superhero-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickFasulo/superhero-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/NickFasulo/superhero-mern/issues"
+  },
+  "homepage": "https://github.com/NickFasulo/superhero-mern#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.3.0"
+  }
+}
